@@ -1,0 +1,20 @@
+.item{
+    background-color: rgb(157, 177, 212);
+    border:solid;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.header{
+    background-color:#36365c;
+    color:antiquewhite;
+    border:solid;
+}
+ .obj{
+    border:solid;
+    padding:15x;
+    }
+  
+p{
+    color:rgb(34, 19, 54);
+}
